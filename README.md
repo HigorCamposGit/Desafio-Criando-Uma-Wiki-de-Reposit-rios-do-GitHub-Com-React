@@ -1,7 +1,7 @@
 # DEsafio Wiki de Repositórios do GitHub com React 🚀.
 
 > **Desafio de Projeto:** Construção de uma aplicação web interativa em React para buscar, listar e remover repositórios do GitHub utilizando a API oficial.  
-> **Formação React Developer** Trilha de React.
+> `Formação React Developer` Trilha de React.
 
 ---
 
