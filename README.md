@@ -47,6 +47,7 @@ Você pode utilizar os seguintes repositórios para testar a busca:
   <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
   <b>Desenvolvido por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
 </p>
+
 ---
 
 ## 📖 Instruções Originais do Desafio (Professor)
