@@ -1,3 +1,58 @@
+# DEsafio Wiki de Repositórios do GitHub com React 🚀.
+
+> **Desafio de Projeto:** Construção de uma aplicação web interativa em React para buscar, listar e remover repositórios do GitHub utilizando a API oficial.  
+> **Formação React Developer** Trilha de React.
+
+---
+
+## 📌 Sobre a Minha Implementação & Diferenciais
+
+Neste desafio, além de estruturar a arquitetura base da aplicação consumindo a API REST do GitHub, foram implementadas diversas melhorias de **UI/UX**, organização de componentes e boas práticas de código:
+
+### 🛠️ Tecnologias & Bibliotecas Utilizadas
+- **React.js**: Construção da interface baseada em componentes funcionais e hooks de estado (`useState`).
+- **Styled-Components**: Estilização dinâmica via *CSS-in-JS* com gerenciamento de temas e pseudo-classes (`:hover`).
+- **Axios / GitHub REST API**: Requisições assíncronas para buscar repositórios em tempo real.
+- **Git & GitHub**: Versionamento de código e publicação do projeto no repositório oficial.
+
+---
+
+### 🎨 Trabalhos Realizados & Melhorias de UI/UX
+
+1. **Ajuste Fino no Componente de Botão (`Button`)**:
+   - Estilização customizada com fundo cinza escuro (`#2D3748`) no estado normal e transição para preto (`#000000`) ao passar o mouse (`:hover`).
+   - Tipografia otimizada com texto em branco (`#FFFFFF`) e peso em negrito para melhor hierarquia visual e acessibilidade.
+   - Preservação da estrutura de layout original (`width: 80%`, `height: 62px`, bordas arredondadas).
+
+2. **Aprimoramento de Campos e Ações (`Input` e `ItemRepo`)**:
+   - Inclusão de instruções claras e `placeholders` orientando o formato exato de busca (`usuario/repositorio`).
+   - Ações explícitas de navegação ("Ver repositório") e exclusão ("Remover") com tratamento de estado dinâmico na lista.
+
+3. **Documentação e Organização do Projeto**:
+   - Configuração do `.gitignore` garantindo um repositório limpo e sem dependências desnecessárias (`node_modules`, `build`).
+   - Apresentação profissional do portfólio no GitHub.
+
+---
+
+
+## 🧪 Exemplos para Teste na Aplicação
+
+Você pode utilizar os seguintes repositórios para testar a busca:
+- `facebook/react`
+- `angular/angular`
+- `HigorCamposGit/desafio-angular-quiz-superpoderes`
+
+---
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Desenvolvido por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+---
+
+## 📖 Instruções Originais do Desafio (Professor)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
